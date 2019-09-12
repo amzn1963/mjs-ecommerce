@@ -27,7 +27,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['1674b2ffcb9f4ff8867cb21a6ae1a6f6.vfs.cloud9.us-east-1.amazonaws.com']
+ALLOWED_HOSTS = ['1674b2ffcb9f4ff8867cb21a6ae1a6f6.vfs.cloud9.us-east-1.amazonaws.com', 'mjs-ecommerce.herokuapp.com']
 
 
 # Application definition
