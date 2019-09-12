@@ -1,5 +1,4 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
+[![Build Status](https://travis-ci.org/amzn1963/mjs-ecommerce.svg?branch=master)](https://travis-ci.org/amzn1963/mjs-ecommerce)
        / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
       / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
      /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
